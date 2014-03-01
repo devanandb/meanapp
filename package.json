@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jade": "~1.2.0",
-    "express": "~3.4.8"
+    "express": "~3.4.8",
+    "stylus": "~0.42.2"
   }
 }

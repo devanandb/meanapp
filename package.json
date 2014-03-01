@@ -1,0 +1,15 @@
+{
+  "name": "MeanApp",
+  "version": "0.0.0",
+  "description": "End to end in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devanand",
+  "license": "ISC",
+  "dependencies": {
+    "jade": "~1.2.0",
+    "express": "~3.4.8"
+  }
+}
